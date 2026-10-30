@@ -2,6 +2,8 @@
 
 VS Code's `cmd-j` for the [Herdr](https://herdr.dev) app.
 
+![herdr-panel](mods/herdr-panel/preview.gif)
+
 - **No panel:** opens a terminal under the focused pane, in that pane's folder.
 - **Panel on screen:** hides it. The shell keeps running.
 - **Hidden panel:** shows it again.
